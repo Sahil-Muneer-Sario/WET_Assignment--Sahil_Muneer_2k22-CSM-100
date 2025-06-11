@@ -10,8 +10,8 @@
 
 # Default Password and Username
 
-        <b> User : admin <br>
-            Password : admin </b>
+       - User : admin <br>
+       - Password : admin </b>
         
 ---
 
