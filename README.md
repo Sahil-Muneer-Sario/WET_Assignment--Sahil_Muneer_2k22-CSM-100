@@ -1,9 +1,10 @@
 # Author
-        <b>Project Submitted By:</b> Sahil Muneer Sario <br>
-        <b>Roll No:</b> 2K22/CS/100 <br>
-        <b>Department:</b> Computer Science (Pre-Medical) <br>
-        <b>University:</b> University of Sindh, Jamshoro <br>
-        <b>Submitted To:</b> Sir Gulsher Leghari <br>
+        Project Submitted By: Sahil Muneer Sario  
+        Roll No: 2K22/CS/100  
+        Department: Computer Science (Pre-Medical)  
+        University: University of Sindh, Jamshoro  
+        Submitted To: Sir Gulsher Leghari
+
 
 ---
 
