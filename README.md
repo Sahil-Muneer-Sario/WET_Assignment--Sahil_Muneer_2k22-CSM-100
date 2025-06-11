@@ -1,6 +1,6 @@
 # Author
         Project Submitted By: Sahil Muneer Sario  
-        Roll No: 2K22/CS/100  
+        Roll No: 2K22/CSM/100  
         Department: Computer Science (Pre-Medical)  
         University: University of Sindh, Jamshoro  
         Submitted To: Sir Gulsher Leghari
@@ -10,8 +10,8 @@
 
 # Default Password and Username
 
-       - User : admin <br>
-       - Password : admin </b>
+       - User : admin
+       - Password : admin
         
 ---
 
